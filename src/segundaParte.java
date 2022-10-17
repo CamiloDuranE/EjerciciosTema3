@@ -3,10 +3,7 @@ public class segundaParte {
         Coche miCoche = new Coche();
         
         miCoche.incrementarPuerta();
-        miCoche.incrementarPuerta();
-        miCoche.incrementarPuerta();
-        miCoche.incrementarPuerta();
-        
+              
         System.out.println(miCoche.numPuertas);
     }   
 }
